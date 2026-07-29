@@ -1,3 +1,3 @@
 My first git repository
 your are learning git
-getting closer
+new command diff
