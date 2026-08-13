@@ -1,4 +1,4 @@
 My first git repository
-this is main  learning git
+learning git in both
 new command diff
 this change only in feature branch
